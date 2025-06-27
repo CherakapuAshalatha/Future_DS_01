@@ -35,6 +35,6 @@ This Power BI dashboard project is part of a Data Analytics internship task. The
 
 ## 📂 Files  
 - `Ecommerce_Sales_Dashboard.pbix` — Power BI dashboard file  
-- `Ecommerce_Sales_Data.xlsx` — Raw data (optional)
+- `Ecommerce_Sales_Data.xlsx` — Raw data
 
 ---
