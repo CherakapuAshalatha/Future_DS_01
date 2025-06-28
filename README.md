@@ -28,6 +28,14 @@ This Power BI dashboard project is part of a Data Analytics internship task. The
 - Power Query (data transformation)  
 - Excel (.xlsx source file)
 
+## 🧠 What I Learned
+
+- How to clean and transform large datasets using MS Excel and Power BI.
+- Created calculated columns using DAX (like Revenue, Month-Year).
+- Designed interactive dashboards with KPIs, bar charts, and line charts.
+- Gained experience in data storytelling for business decisions.
+- Understood how to analyze customer behavior and seasonal trends.
+
 ## 🧠 Business Insights  
 - **Sales Peak**: Q4 is the strongest period; boost inventory before holiday season.  
 - **Category Focus**: Aesthetic and giftable items perform best.  
